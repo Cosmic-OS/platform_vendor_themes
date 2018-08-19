@@ -127,6 +127,7 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/fontagev2/AdventPro-Regular.ttf:system/fonts/AdventPro-Regular.ttf \
     vendor/themes/fonts/fontagev2/ArchivoNarrow-Regular.ttf:system/fonts/ArchivoNarrow-Regular.ttf \
     vendor/themes/fonts/fontagev2/AutourOne-Regular.ttf:system/fonts/AutourOne-Regular.ttf \
+    vendor/themes/fonts/fontagev2/Bariol-Regular.ttf:system/fonts/Bariol-Regular.ttf \
     vendor/themes/fonts/fontagev2/BadScript-Regular.ttf:system/fonts/BadScript-Regular.ttf \
     vendor/themes/fonts/fontagev2/CherrySwash-Regular.ttf:system/fonts/CherrySwash-Regular.ttf \
     vendor/themes/fonts/fontagev2/Codystar.ttf:system/fonts/Codystar.ttf \
