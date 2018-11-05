@@ -26,3 +26,33 @@ PRODUCT_PACKAGES += \
     GreenAccent \
     WhiteAccent \
     CyanAccent \
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QSTileDefault \
+    QSTileCircleTrim \
+    QSTileCircleDualTone \
+    QSTileCircleGradient \
+    QSTileCookie \
+    QSTileDottedCircle \
+    QSTileDualToneCircle \
+    QSTileInk \
+    QSTileInkdrop \
+    QSTileMountain \
+    QSTileNinja \
+    QSTileOreo \
+    QSTileOreoCircleTrim \
+    QSTileOreoSquircleTrim \
+    QSTilePokesign \
+    QSTileSquaremedo \
+    QSTileSquircle \
+    QStileBadgetwo \
+    QSTileSquircleTrim \
+    QSTileTeardrop \
+    QStileDiamond \
+    QStileHexagon \
+    QStileSquare \
+    QSTileWavey \
+    QStileGear \
+    QStileStar \
+    QStileBadge
