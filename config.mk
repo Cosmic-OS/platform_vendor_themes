@@ -56,3 +56,10 @@ PRODUCT_PACKAGES += \
     QStileGear \
     QStileStar \
     QStileBadge
+	
+# Notification themes
+PRODUCT_PACKAGES += \
+    NotificationBlackTheme \
+    NotificationDarkTheme \
+    NotificationLightTheme
+	
