@@ -55,7 +55,12 @@ PRODUCT_PACKAGES += \
     QSTileWavey \
     QStileGear \
     QStileStar \
-    QStileBadge
+    QStileBadge \
+	QStileNeonlike \
+    QStileOOS \
+    QStileTriangles \
+    QStileDivided \
+    QStileCosmos
 
 # QS header styles
 PRODUCT_PACKAGES += \
