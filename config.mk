@@ -56,7 +56,15 @@ PRODUCT_PACKAGES += \
     QStileGear \
     QStileStar \
     QStileBadge
-	
+
+# QS header styles
+PRODUCT_PACKAGES += \
+    QSHeaderBlack \
+    QSHeaderGrey \
+    QSHeaderLightGrey \
+    QSHeaderAccent \
+    QSHeaderTransparent
+    
 # Notification themes
 PRODUCT_PACKAGES += \
     NotificationBlackTheme \
